@@ -1,0 +1,4 @@
+numba==0.61.0
+torchaudio==2.6.0
+librosa==0.10.2.post1
+timm
